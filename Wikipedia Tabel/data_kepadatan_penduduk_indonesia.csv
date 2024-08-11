@@ -1,0 +1,99 @@
+No.,Kota,Provinsi,Luas_Wilayah,Jumlah_Penduduk,Kepadatan_Penduduk
+1,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,"47,90",889.448,18.569
+2,Jakarta Barat,Daerah Khusus Ibukota Jakarta,"126,15",2.093.013,16.591
+3,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,"145,73",2.001.353,13.733
+4,Bandung,Jawa Barat,"167,30",2.288.570,13.679
+5,Cimahi,Jawa Barat,"40,36",546.879,13.549
+6,Yogyakarta,Daerah Istimewa Yogyakarta,"32,50",433.539,13.340
+7,Jakarta Timur,Daerah Khusus Ibukota Jakarta,"187,73",2.391.166,12.737
+8,Surakarta,Jawa Tengah,"44,03",506.397,11.501
+9,Jakarta Utara,Daerah Khusus Ibukota Jakarta,"142,30",1.445.623,10.159
+10,Bekasi,Jawa Barat,"210,49",1.993.478,9.471
+11,Bogor,Jawa Barat,"118,50",1.112.081,9.385
+12,Tangerang Selatan,Banten,"147,19",1.219.245,8.283
+13,Cirebon,Jawa Barat,"37,36",308.771,8.265
+14,Tangerang,Banten,"177,30",1.451.595,8.187
+15,Banjarmasin,Kalimantan Selatan,"72,00",589.115,8.182
+16,Surabaya,Jawa Timur,"326,37",2.611.506,8.002
+17,Medan,Sumatera Utara,"265,10",2.029.797,7.657
+18,Malang,Jawa Timur,"110,06",820.243,6.171
+19,Depok,Jawa Barat,"200,29",1.374.903,6.865
+20,Magelang,Jawa Tengah,"18,12",124.374,6.864
+21,Mojokerto,Jawa Timur,"16,47",111.860,6.792
+22,Sukabumi,Jawa Barat,"48,00",291.277,6.068
+23,Tegal,Jawa Tengah,"39,68",238.676,6.015
+24,Makassar,Sulawesi Selatan,"199,26",1.194.583,5.995
+25,Pekalongan,Jawa Tengah,"45,25",314.098,5.940
+26,Mataram,Nusa Tenggara Barat,"61,30",342.896,5.594
+27,Madiun,Jawa Timur,"65,67",401.997,5.158
+28,Pasuruan,Jawa Timur,"36,57",171.136,4.680
+29,Pontianak,Kalimantan Barat,"107,82",679.818,4.654
+30,Denpasar,Bali,"123,98",574.610,4.635
+31,Bukittinggi,Sumatera Barat,"25,24",110.954,4.400
+32,Bandar Lampung,Lampung,"192,18",790.057,4.111
+33,Kediri,Jawa Timur,"63,40",248.640,3.922
+34,Blitar,Jawa Timur,"32,58",126.776,3.891
+35,Semarang,Jawa Tengah,"373,67",1.729.428,4.816
+36,Probolinggo,Jawa Timur,"56,67",211.142,3.726
+37,Tebing Tinggi,Sumatera Utara,"38,44",134.548,3.500
+38,Tasikmalaya,Jawa Barat,"171,56",582.423,3.395
+39,Palembang,Sumatera Selatan,"400,61",1.342.258,3.351
+40,Sibolga,Sumatera Utara,"27,78",90.489,3.257
+41,Serang,Banten,"266,74",613.356,2.299
+42,Salatiga,Jawa Tengah,"56,78",165.394,2.913
+43,Banda Aceh,Nanggroe Aceh Darussalam,"61,36",177.881,2.899
+44,Pematangsiantar,Sumatera Utara,"79,97",229.525,2.870
+45,Binjai,Sumatera Utara,"90,24",238.209,2.640
+46,Manado,Sulawesi Utara,"157,25",405.715,2.580
+47,Tanjung Balai,Sumatera Utara,"60,52",178.675,3.387
+48,Gorontalo,Gorontalo,"64,79",153.036,2.362
+49,Padang Panjang,Sumatera Barat,"19,89",45.439,2.285
+50,Jambi,Jambi,"205,38",633.650,3.085
+51,Metro,Lampung,"68,74",127.569,1.856
+52,Cilegon,Banten,"175,50",324.143,1.847
+53,Bengkulu,Bengkulu,"151,70",257.763,1.699
+54,Kupang,Nusa Tenggara Timur,"160,34",269.680,1.682
+55,Pangkalpinang,Bangka Belitung,"89,40",145.945,1.632
+56,Padang Sidempuan,Sumatera Utara,"114,65",178.148,1.554
+57,Banjar,Jawa Barat,"113,49",162.383,1.431
+58,Kendari,Sulawesi Tenggara,"295,89",345.107,1.355
+59,Balikpapan,Kalimantan Timur,"503,30",738.532,1.328
+60,Payakumbuh,Sumatera Barat,"80,43",101.819,1.266
+61,Padang,Sumatera Barat,"694,96",799.741,1.151
+62,Pare-pare,Sulawesi Selatan,"99,33",112.625,1.134
+63,Pakanbaru,Riau,"633,01",717.618,1.134
+64,Pariaman,Sumatera Barat,"73,54",70.032,952
+65,Solok,Sumatera Barat,"57,64",54.049,938
+66,Batu,Jawa Timur,"199,09",179.092,900
+67,Batam,Kepulauan Riau,"715,00",1.025.044,862
+68,Lhokseumawe,Nanggroe Aceh Darussalam,"181,10",154.634,854
+69,Palopo,Sulawesi Selatan,"155,19",129.273,833
+70,Samarinda,Kalimantan Timur,"718,00",861.878,800
+71,Palu,Sulawesi Tengah,"395,06",291.872,739
+72,Tomohon,Sulawesi Utara,"114,20",80.649,706
+73,Kotamobagu,Sulawesi Utara,"184,33",120.597,654
+74,Ambon,Maluku,"359,45",233.819,650
+75,Ternate,Maluku Utara,"250,85",156.735,625
+76,Tarakan,Kalimantan Timur,"250,80",155.716,621
+77,Bima,Nusa Tenggara Barat,"222,25",123.064,554
+78,Bitung,Sulawesi Utara,"304,00",163.837,539
+79,Bau-bau,Sulawesi Tenggara,"221,00",118.998,538
+80,Langsa,Nanggroe Aceh Darussalam,"262,41",137.586,524
+81,Gunungsitoli,Sumatera Utara,"284,78",137.104,481
+82,Lubuklinggau,Sumatera Selatan,"401,50",174.472,435
+83,Banjarbaru,Kalimantan Selatan,"371,30",152.839,412
+84,Singkawang,Kalimantan Barat,"504,00",242.146,333
+85,Tual,Maluku,"254,39",82.955,326
+86,Prabumulih,Sumatera Selatan,"434,50",129.201,297
+87,Sungaipenuh,Jambi,"391,50",101.325,258
+88,Bontang,Kalimantan Timur,"497,57",120.348,242
+89,Tanjung Pinang,Kepulauan Riau,"131,54",167.958,240
+90,Jayapura,Papua,"940,00",197.396,210
+91,Pagar Alam,Sumatera Selatan,"633,66",123.674,195
+92,Sabang,Nanggroe Aceh Darussalam,"153,00",28.597,187
+93,Sawahlunto,Sumatera Barat,"273,45",54.054,18
+94,Sorong,Papua Barat Daya,"1.105,00",146.390,132
+95,Dumai,Riau,"2.039,00",218.643,107
+96,Palangka Raya,Kalimantan Tengah,"2.400,00",170.761,71
+97,Subulussalam,Nanggroe Aceh Darussalam,"1.391,00",78.801,56
+98,Tidore Kepulauan,Maluku Utara,"1.550,37",78.025,8
